@@ -1,4 +1,4 @@
-# Python Game
+# SquareRunner
 Interactive Player Vs. AI game
 
 ## Using
