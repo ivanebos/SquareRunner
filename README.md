@@ -1,3 +1,7 @@
-# Python-game
-Replica of Super Crate box
-Worked on it over summer got caught up with school couldnt finish it.
+# Python Game
+Interactive Player Vs. AI game
+
+## Using
+
+  - Python3: Logic behind project
+   - PyGame: Implement graphics
