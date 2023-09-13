@@ -1,7 +1,9 @@
 # SquareRunner
-Interactive Player Vs. AI game
+Interactive Player Vs. Computer game
+Future Plans: Add Enemy AI
 
-## Using
-
+### Built With
   - Python3: Logic behind project
    - PyGame: Implement graphics
+
+### Demo
